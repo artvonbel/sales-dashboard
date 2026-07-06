@@ -1,0 +1,1068 @@
+{
+  "sales": [
+    {
+      "date": "2026-07-06",
+      "product": "Мяч",
+      "category": "Спорт",
+      "amount": 1478.89,
+      "quantity": 4,
+      "id": 1
+    },
+    {
+      "date": "2026-07-04",
+      "product": "Полка",
+      "category": "Дом",
+      "amount": 1820.48,
+      "quantity": 1,
+      "id": 2
+    },
+    {
+      "date": "2026-06-30",
+      "product": "Мяч",
+      "category": "Спорт",
+      "amount": 2886.92,
+      "quantity": 4,
+      "id": 3
+    },
+    {
+      "date": "2026-06-29",
+      "product": "Зарядка",
+      "category": "Электроника",
+      "amount": 3475.4,
+      "quantity": 4,
+      "id": 4
+    },
+    {
+      "date": "2026-06-29",
+      "product": "Ракетка",
+      "category": "Спорт",
+      "amount": 562.3,
+      "quantity": 4,
+      "id": 5
+    },
+    {
+      "date": "2026-06-30",
+      "product": "Ноутбук",
+      "category": "Электроника",
+      "amount": 4724.89,
+      "quantity": 3,
+      "id": 6
+    },
+    {
+      "date": "2026-06-29",
+      "product": "Кроссовки",
+      "category": "Одежда",
+      "amount": 1153.63,
+      "quantity": 5,
+      "id": 7
+    },
+    {
+      "date": "2026-06-28",
+      "product": "Детектив",
+      "category": "Книги",
+      "amount": 3153.55,
+      "quantity": 2,
+      "id": 8
+    },
+    {
+      "date": "2026-06-28",
+      "product": "Стул",
+      "category": "Дом",
+      "amount": 4068.54,
+      "quantity": 4,
+      "id": 9
+    },
+    {
+      "date": "2026-06-27",
+      "product": "Комикс",
+      "category": "Книги",
+      "amount": 3684.29,
+      "quantity": 3,
+      "id": 10
+    },
+    {
+      "date": "2026-06-27",
+      "product": "Стул",
+      "category": "Дом",
+      "amount": 2630.56,
+      "quantity": 3,
+      "id": 11
+    },
+    {
+      "date": "2026-06-26",
+      "product": "Ноутбук",
+      "category": "Электроника",
+      "amount": 3022.94,
+      "quantity": 2,
+      "id": 12
+    },
+    {
+      "date": "2026-06-26",
+      "product": "Мяч",
+      "category": "Спорт",
+      "amount": 1829.93,
+      "quantity": 2,
+      "id": 13
+    },
+    {
+      "date": "2026-06-23",
+      "product": "Полка",
+      "category": "Дом",
+      "amount": 4479.85,
+      "quantity": 5,
+      "id": 14
+    },
+    {
+      "date": "2026-06-22",
+      "product": "Стол",
+      "category": "Дом",
+      "amount": 1349.36,
+      "quantity": 5,
+      "id": 15
+    },
+    {
+      "date": "2026-06-22",
+      "product": "Футболка",
+      "category": "Одежда",
+      "amount": 1607.53,
+      "quantity": 1,
+      "id": 16
+    },
+    {
+      "date": "2026-06-22",
+      "product": "Ноутбук",
+      "category": "Электроника",
+      "amount": 2445.98,
+      "quantity": 2,
+      "id": 17
+    },
+    {
+      "date": "2026-06-22",
+      "product": "Стул",
+      "category": "Дом",
+      "amount": 3660.21,
+      "quantity": 5,
+      "id": 18
+    },
+    {
+      "date": "2026-06-21",
+      "product": "Стул",
+      "category": "Дом",
+      "amount": 1738.71,
+      "quantity": 2,
+      "id": 19
+    },
+    {
+      "date": "2026-06-20",
+      "product": "Полка",
+      "category": "Дом",
+      "amount": 845.1,
+      "quantity": 4,
+      "id": 20
+    },
+    {
+      "date": "2026-06-20",
+      "product": "Полка",
+      "category": "Дом",
+      "amount": 2134.88,
+      "quantity": 3,
+      "id": 21
+    },
+    {
+      "date": "2026-06-20",
+      "product": "Лампа",
+      "category": "Дом",
+      "amount": 3715.4,
+      "quantity": 3,
+      "id": 22
+    },
+    {
+      "date": "2026-06-19",
+      "product": "Планшет",
+      "category": "Электроника",
+      "amount": 3094.53,
+      "quantity": 5,
+      "id": 23
+    },
+    {
+      "date": "2026-06-18",
+      "product": "Детектив",
+      "category": "Книги",
+      "amount": 2430.48,
+      "quantity": 5,
+      "id": 24
+    },
+    {
+      "date": "2026-06-17",
+      "product": "Шапка",
+      "category": "Одежда",
+      "amount": 3461.22,
+      "quantity": 2,
+      "id": 25
+    },
+    {
+      "date": "2026-06-17",
+      "product": "Стул",
+      "category": "Дом",
+      "amount": 2177.6,
+      "quantity": 1,
+      "id": 26
+    },
+    {
+      "date": "2026-06-16",
+      "product": "Полка",
+      "category": "Дом",
+      "amount": 3997.44,
+      "quantity": 2,
+      "id": 27
+    },
+    {
+      "date": "2026-06-16",
+      "product": "Шапка",
+      "category": "Одежда",
+      "amount": 1173.6,
+      "quantity": 4,
+      "id": 28
+    },
+    {
+      "date": "2026-06-15",
+      "product": "Роман",
+      "category": "Книги",
+      "amount": 2785.85,
+      "quantity": 3,
+      "id": 29
+    },
+    {
+      "date": "2026-06-15",
+      "product": "Гантели",
+      "category": "Спорт",
+      "amount": 4734.71,
+      "quantity": 3,
+      "id": 30
+    },
+    {
+      "date": "2026-06-14",
+      "product": "Детектив",
+      "category": "Книги",
+      "amount": 1512.09,
+      "quantity": 2,
+      "id": 31
+    },
+    {
+      "date": "2026-06-13",
+      "product": "Скакалка",
+      "category": "Спорт",
+      "amount": 2039.1,
+      "quantity": 1,
+      "id": 32
+    },
+    {
+      "date": "2026-06-13",
+      "product": "Телефон",
+      "category": "Электроника",
+      "amount": 4164.31,
+      "quantity": 3,
+      "id": 33
+    },
+    {
+      "date": "2026-06-13",
+      "product": "Стул",
+      "category": "Дом",
+      "amount": 4508.81,
+      "quantity": 3,
+      "id": 34
+    },
+    {
+      "date": "2026-06-13",
+      "product": "Стул",
+      "category": "Дом",
+      "amount": 1550.42,
+      "quantity": 5,
+      "id": 35
+    },
+    {
+      "date": "2026-06-12",
+      "product": "Скакалка",
+      "category": "Спорт",
+      "amount": 2145.21,
+      "quantity": 5,
+      "id": 36
+    },
+    {
+      "date": "2026-06-12",
+      "product": "Полка",
+      "category": "Дом",
+      "amount": 3642.5,
+      "quantity": 1,
+      "id": 37
+    },
+    {
+      "date": "2026-06-11",
+      "product": "Комикс",
+      "category": "Книги",
+      "amount": 586.89,
+      "quantity": 4,
+      "id": 38
+    },
+    {
+      "date": "2026-06-11",
+      "product": "Фантастика",
+      "category": "Книги",
+      "amount": 3522.93,
+      "quantity": 2,
+      "id": 39
+    },
+    {
+      "date": "2026-06-10",
+      "product": "Лампа",
+      "category": "Дом",
+      "amount": 3153.61,
+      "quantity": 2,
+      "id": 40
+    },
+    {
+      "date": "2026-06-10",
+      "product": "Ноутбук",
+      "category": "Электроника",
+      "amount": 1592.29,
+      "quantity": 4,
+      "id": 41
+    },
+    {
+      "date": "2026-06-10",
+      "product": "Телефон",
+      "category": "Электроника",
+      "amount": 4161.54,
+      "quantity": 2,
+      "id": 42
+    },
+    {
+      "date": "2026-06-09",
+      "product": "Кроссовки",
+      "category": "Одежда",
+      "amount": 4501.95,
+      "quantity": 4,
+      "id": 43
+    },
+    {
+      "date": "2026-07-05",
+      "product": "Стол",
+      "category": "Дом",
+      "amount": 400.22,
+      "quantity": 2,
+      "id": 44
+    },
+    {
+      "date": "2026-07-04",
+      "product": "Шапка",
+      "category": "Одежда",
+      "amount": 4040.51,
+      "quantity": 1,
+      "id": 45
+    },
+    {
+      "date": "2026-07-04",
+      "product": "Полка",
+      "category": "Дом",
+      "amount": 4343.15,
+      "quantity": 1,
+      "id": 46
+    },
+    {
+      "date": "2026-07-03",
+      "product": "Ракетка",
+      "category": "Спорт",
+      "amount": 2996.18,
+      "quantity": 5,
+      "id": 47
+    },
+    {
+      "date": "2026-07-05",
+      "product": "Планшет",
+      "category": "Электроника",
+      "amount": 3120.98,
+      "quantity": 2,
+      "id": 48
+    },
+    {
+      "date": "2026-07-03",
+      "product": "Ноутбук",
+      "category": "Электроника",
+      "amount": 761.49,
+      "quantity": 4,
+      "id": 49
+    },
+    {
+      "date": "2026-07-02",
+      "product": "Джинсы",
+      "category": "Одежда",
+      "amount": 2050.85,
+      "quantity": 2,
+      "id": 50
+    },
+    {
+      "date": "2026-07-02",
+      "product": "Детектив",
+      "category": "Книги",
+      "amount": 2248.63,
+      "quantity": 1,
+      "id": 51
+    },
+    {
+      "date": "2026-07-02",
+      "product": "Роман",
+      "category": "Книги",
+      "amount": 4863.45,
+      "quantity": 5,
+      "id": 52
+    },
+    {
+      "date": "2026-07-02",
+      "product": "Ракетка",
+      "category": "Спорт",
+      "amount": 3091.36,
+      "quantity": 4,
+      "id": 53
+    },
+    {
+      "date": "2026-07-01",
+      "product": "Ковер",
+      "category": "Дом",
+      "amount": 308.02,
+      "quantity": 3,
+      "id": 54
+    },
+    {
+      "date": "2026-06-30",
+      "product": "Кроссовки",
+      "category": "Одежда",
+      "amount": 3571.52,
+      "quantity": 2,
+      "id": 55
+    },
+    {
+      "date": "2026-06-30",
+      "product": "Учебник",
+      "category": "Книги",
+      "amount": 1008.02,
+      "quantity": 2,
+      "id": 56
+    },
+    {
+      "date": "2026-06-26",
+      "product": "Мяч",
+      "category": "Спорт",
+      "amount": 1862.59,
+      "quantity": 2,
+      "id": 57
+    },
+    {
+      "date": "2026-06-26",
+      "product": "Учебник",
+      "category": "Книги",
+      "amount": 3805.08,
+      "quantity": 3,
+      "id": 58
+    },
+    {
+      "date": "2026-06-26",
+      "product": "Куртка",
+      "category": "Одежда",
+      "amount": 1182.16,
+      "quantity": 5,
+      "id": 59
+    },
+    {
+      "date": "2026-06-24",
+      "product": "Планшет",
+      "category": "Электроника",
+      "amount": 4312.56,
+      "quantity": 2,
+      "id": 60
+    },
+    {
+      "date": "2026-06-24",
+      "product": "Ноутбук",
+      "category": "Электроника",
+      "amount": 4546.37,
+      "quantity": 1,
+      "id": 61
+    },
+    {
+      "date": "2026-06-24",
+      "product": "Планшет",
+      "category": "Электроника",
+      "amount": 1058.18,
+      "quantity": 1,
+      "id": 62
+    },
+    {
+      "date": "2026-06-24",
+      "product": "Лампа",
+      "category": "Дом",
+      "amount": 2211.3,
+      "quantity": 2,
+      "id": 63
+    },
+    {
+      "date": "2026-06-23",
+      "product": "Стул",
+      "category": "Дом",
+      "amount": 5139.13,
+      "quantity": 3,
+      "id": 64
+    },
+    {
+      "date": "2026-06-22",
+      "product": "Планшет",
+      "category": "Электроника",
+      "amount": 3925.26,
+      "quantity": 1,
+      "id": 65
+    },
+    {
+      "date": "2026-06-22",
+      "product": "Полка",
+      "category": "Дом",
+      "amount": 4366.37,
+      "quantity": 2,
+      "id": 66
+    },
+    {
+      "date": "2026-06-21",
+      "product": "Ракетка",
+      "category": "Спорт",
+      "amount": 1569.23,
+      "quantity": 3,
+      "id": 67
+    },
+    {
+      "date": "2026-06-21",
+      "product": "Детектив",
+      "category": "Книги",
+      "amount": 631.27,
+      "quantity": 2,
+      "id": 68
+    },
+    {
+      "date": "2026-06-20",
+      "product": "Кроссовки",
+      "category": "Одежда",
+      "amount": 1475.86,
+      "quantity": 1,
+      "id": 69
+    },
+    {
+      "date": "2026-06-16",
+      "product": "Куртка",
+      "category": "Одежда",
+      "amount": 1166.78,
+      "quantity": 2,
+      "id": 70
+    },
+    {
+      "date": "2026-06-13",
+      "product": "Фантастика",
+      "category": "Книги",
+      "amount": 1283.75,
+      "quantity": 3,
+      "id": 71
+    },
+    {
+      "date": "2026-06-13",
+      "product": "Стол",
+      "category": "Дом",
+      "amount": 2226.8,
+      "quantity": 3,
+      "id": 72
+    },
+    {
+      "date": "2026-06-12",
+      "product": "Ковер",
+      "category": "Дом",
+      "amount": 1569.76,
+      "quantity": 3,
+      "id": 73
+    },
+    {
+      "date": "2026-06-12",
+      "product": "Лампа",
+      "category": "Дом",
+      "amount": 653.06,
+      "quantity": 1,
+      "id": 74
+    },
+    {
+      "date": "2026-06-12",
+      "product": "Ковер",
+      "category": "Дом",
+      "amount": 716.03,
+      "quantity": 4,
+      "id": 75
+    },
+    {
+      "date": "2026-06-11",
+      "product": "Наушники",
+      "category": "Электроника",
+      "amount": 3107.3,
+      "quantity": 5,
+      "id": 76
+    },
+    {
+      "date": "2026-06-11",
+      "product": "Фантастика",
+      "category": "Книги",
+      "amount": 3511.05,
+      "quantity": 2,
+      "id": 77
+    },
+    {
+      "date": "2026-06-11",
+      "product": "Стул",
+      "category": "Дом",
+      "amount": 1711.23,
+      "quantity": 3,
+      "id": 78
+    },
+    {
+      "date": "2026-06-10",
+      "product": "Велосипед",
+      "category": "Спорт",
+      "amount": 2918.2,
+      "quantity": 2,
+      "id": 79
+    },
+    {
+      "date": "2026-06-10",
+      "product": "Лампа",
+      "category": "Дом",
+      "amount": 743.25,
+      "quantity": 3,
+      "id": 80
+    },
+    {
+      "date": "2026-06-09",
+      "product": "Детектив",
+      "category": "Книги",
+      "amount": 2855.56,
+      "quantity": 2,
+      "id": 81
+    },
+    {
+      "date": "2026-06-07",
+      "product": "Куртка",
+      "category": "Одежда",
+      "amount": 275.37,
+      "quantity": 3,
+      "id": 82
+    },
+    {
+      "date": "2026-06-07",
+      "product": "Учебник",
+      "category": "Книги",
+      "amount": 3293.21,
+      "quantity": 2,
+      "id": 83
+    },
+    {
+      "date": "2026-06-06",
+      "product": "Лампа",
+      "category": "Дом",
+      "amount": 2644.47,
+      "quantity": 3,
+      "id": 84
+    },
+    {
+      "date": "2026-06-27",
+      "product": "Стул",
+      "category": "Дом",
+      "amount": 2630.56,
+      "quantity": 3,
+      "id": 85
+    },
+    {
+      "date": "2026-06-23",
+      "product": "Полка",
+      "category": "Дом",
+      "amount": 4479.85,
+      "quantity": 5,
+      "id": 86
+    },
+    {
+      "date": "2026-06-26",
+      "product": "Ноутбук",
+      "category": "Электроника",
+      "amount": 3022.94,
+      "quantity": 2,
+      "id": 87
+    },
+    {
+      "date": "2026-06-16",
+      "product": "Ракетка",
+      "category": "Спорт",
+      "amount": 4399.4,
+      "quantity": 2,
+      "id": 88
+    },
+    {
+      "date": "2026-06-16",
+      "product": "Наушники",
+      "category": "Электроника",
+      "amount": 5105.45,
+      "quantity": 4,
+      "id": 89
+    },
+    {
+      "date": "2026-06-16",
+      "product": "Шапка",
+      "category": "Одежда",
+      "amount": 1173.6,
+      "quantity": 4,
+      "id": 90
+    },
+    {
+      "date": "2026-06-16",
+      "product": "Полка",
+      "category": "Дом",
+      "amount": 3997.44,
+      "quantity": 2,
+      "id": 91
+    },
+    {
+      "date": "2026-06-17",
+      "product": "Шапка",
+      "category": "Одежда",
+      "amount": 3461.22,
+      "quantity": 2,
+      "id": 92
+    },
+    {
+      "date": "2026-06-17",
+      "product": "Стул",
+      "category": "Дом",
+      "amount": 2177.6,
+      "quantity": 1,
+      "id": 93
+    },
+    {
+      "date": "2026-07-05",
+      "product": "Шапка",
+      "category": "Одежда",
+      "amount": 1041.23,
+      "quantity": 5,
+      "id": 94
+    },
+    {
+      "date": "2026-07-05",
+      "product": "Детектив",
+      "category": "Книги",
+      "amount": 4042.15,
+      "quantity": 4,
+      "id": 95
+    },
+    {
+      "date": "2026-06-09",
+      "product": "Кроссовки",
+      "category": "Одежда",
+      "amount": 4501.95,
+      "quantity": 4,
+      "id": 96
+    },
+    {
+      "date": "2026-06-10",
+      "product": "Телефон",
+      "category": "Электроника",
+      "amount": 4161.54,
+      "quantity": 2,
+      "id": 97
+    },
+    {
+      "date": "2026-06-10",
+      "product": "Лампа",
+      "category": "Дом",
+      "amount": 3153.61,
+      "quantity": 2,
+      "id": 98
+    },
+    {
+      "date": "2026-06-29",
+      "product": "Зарядка",
+      "category": "Электроника",
+      "amount": 3810.22,
+      "quantity": 2,
+      "id": 99
+    },
+    {
+      "date": "2026-06-28",
+      "product": "Полка",
+      "category": "Дом",
+      "amount": 3382.81,
+      "quantity": 4,
+      "id": 100
+    },
+    {
+      "date": "2026-06-29",
+      "product": "Гантели",
+      "category": "Спорт",
+      "amount": 2499.58,
+      "quantity": 4,
+      "id": 101
+    },
+    {
+      "date": "2026-06-28",
+      "product": "Скакалка",
+      "category": "Спорт",
+      "amount": 629.07,
+      "quantity": 2,
+      "id": 102
+    },
+    {
+      "date": "2026-06-30",
+      "product": "Учебник",
+      "category": "Книги",
+      "amount": 1008.02,
+      "quantity": 2,
+      "id": 103
+    },
+    {
+      "date": "2026-06-30",
+      "product": "Кроссовки",
+      "category": "Одежда",
+      "amount": 3571.52,
+      "quantity": 2,
+      "id": 104
+    },
+    {
+      "date": "2026-06-17",
+      "product": "Лампа",
+      "category": "Дом",
+      "amount": 4507.84,
+      "quantity": 2,
+      "id": 105
+    },
+    {
+      "date": "2026-06-17",
+      "product": "Планшет",
+      "category": "Электроника",
+      "amount": 4503.91,
+      "quantity": 3,
+      "id": 106
+    },
+    {
+      "date": "2026-06-22",
+      "product": "Полка",
+      "category": "Дом",
+      "amount": 4366.37,
+      "quantity": 2,
+      "id": 107
+    },
+    {
+      "date": "2026-06-22",
+      "product": "Шапка",
+      "category": "Одежда",
+      "amount": 4398.77,
+      "quantity": 3,
+      "id": 108
+    },
+    {
+      "date": "2026-06-27",
+      "product": "Комикс",
+      "category": "Книги",
+      "amount": 3684.29,
+      "quantity": 3,
+      "id": 109
+    },
+    {
+      "date": "2026-06-06",
+      "product": "Лампа",
+      "category": "Дом",
+      "amount": 2644.47,
+      "quantity": 3,
+      "id": 110
+    },
+    {
+      "date": "2026-06-07",
+      "product": "Куртка",
+      "category": "Одежда",
+      "amount": 275.37,
+      "quantity": 3,
+      "id": 111
+    },
+    {
+      "date": "2026-06-07",
+      "product": "Учебник",
+      "category": "Книги",
+      "amount": 3293.21,
+      "quantity": 2,
+      "id": 112
+    },
+    {
+      "date": "2026-06-09",
+      "product": "Детектив",
+      "category": "Книги",
+      "amount": 2855.56,
+      "quantity": 2,
+      "id": 113
+    },
+    {
+      "date": "2026-06-10",
+      "product": "Ноутбук",
+      "category": "Электроника",
+      "amount": 1592.29,
+      "quantity": 4,
+      "id": 114
+    },
+    {
+      "date": "2026-06-17",
+      "product": "Стул",
+      "category": "Дом",
+      "amount": 2177.6,
+      "quantity": 1,
+      "id": 115
+    },
+    {
+      "date": "2026-06-10",
+      "product": "Телефон",
+      "category": "Электроника",
+      "amount": 4161.54,
+      "quantity": 2,
+      "id": 116
+    },
+    {
+      "date": "2026-07-05",
+      "product": "Шапка",
+      "category": "Одежда",
+      "amount": 1041.23,
+      "quantity": 5,
+      "id": 117
+    },
+    {
+      "date": "2026-06-21",
+      "product": "Детектив",
+      "category": "Книги",
+      "amount": 631.27,
+      "quantity": 2,
+      "id": 118
+    },
+    {
+      "date": "2026-06-20",
+      "product": "Кроссовки",
+      "category": "Одежда",
+      "amount": 1475.86,
+      "quantity": 1,
+      "id": 119
+    },
+    {
+      "date": "2026-06-22",
+      "product": "Полка",
+      "category": "Дом",
+      "amount": 4366.37,
+      "quantity": 2,
+      "id": 120
+    },
+    {
+      "date": "2026-06-21",
+      "product": "Ракетка",
+      "category": "Спорт",
+      "amount": 1569.23,
+      "quantity": 3,
+      "id": 121
+    },
+    {
+      "date": "2026-06-17",
+      "product": "Планшет",
+      "category": "Электроника",
+      "amount": 4503.91,
+      "quantity": 3,
+      "id": 122
+    },
+    {
+      "date": "2026-06-17",
+      "product": "Лампа",
+      "category": "Дом",
+      "amount": 4507.84,
+      "quantity": 2,
+      "id": 123
+    },
+    {
+      "date": "2026-06-09",
+      "product": "Кроссовки",
+      "category": "Одежда",
+      "amount": 4501.95,
+      "quantity": 4,
+      "id": 124
+    },
+    {
+      "date": "2026-07-05",
+      "product": "Детектив",
+      "category": "Книги",
+      "amount": 4042.15,
+      "quantity": 4,
+      "id": 125
+    },
+    {
+      "date": "2026-06-17",
+      "product": "Стул",
+      "category": "Дом",
+      "amount": 2177.6,
+      "quantity": 1,
+      "id": 126
+    },
+    {
+      "date": "2026-07-05",
+      "product": "Шапка",
+      "category": "Одежда",
+      "amount": 1041.23,
+      "quantity": 5,
+      "id": 127
+    },
+    {
+      "date": "2026-06-10",
+      "product": "Телефон",
+      "category": "Электроника",
+      "amount": 4161.54,
+      "quantity": 2,
+      "id": 128
+    },
+    {
+      "date": "2026-07-05",
+      "product": "Детектив",
+      "category": "Книги",
+      "amount": 4042.15,
+      "quantity": 4,
+      "id": 129
+    },
+    {
+      "date": "2026-07-05",
+      "product": "Шапка",
+      "category": "Одежда",
+      "amount": 1041.23,
+      "quantity": 5,
+      "id": 130
+    },
+    {
+      "date": "2026-06-17",
+      "product": "Стул",
+      "category": "Дом",
+      "amount": 2177.6,
+      "quantity": 1,
+      "id": 131
+    },
+    {
+      "date": "2026-06-10",
+      "product": "Телефон",
+      "category": "Электроника",
+      "amount": 4161.54,
+      "quantity": 2,
+      "id": 132
+    },
+    {
+      "date": "2026-07-06",
+      "product": "Toki",
+      "category": "Дом",
+      "amount": 15765,
+      "quantity": 1,
+      "id": 133
+    }
+  ]
+}
